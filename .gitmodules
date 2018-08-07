@@ -1,6 +1,6 @@
 [submodule "utils"]
 	path = utils
-	url = ../InterPred/script/
+	url = https://github.com/limitimil/ProtSim-utils
 [submodule "TBD"]
 	path = TBD
-	url = ../InterPred/task0110/script/
+	url = https://github.com/limitimil/ProtSim-TBD
